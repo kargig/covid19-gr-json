@@ -3,6 +3,7 @@
     "date": "2020-03-22",
     "total": 624,
     "new_confirmed": 20,
+    "samples": 8006,
     "greeks": 568,
     "men": 342,
     "women": 272,

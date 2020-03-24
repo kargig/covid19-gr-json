@@ -3,6 +3,7 @@
     "date": "2020-03-21",
     "total": 530,
     "new_confirmed": 10,
+    "samples": 7830,
     "greeks": 472,
     "men": 285,
     "women": 233,
