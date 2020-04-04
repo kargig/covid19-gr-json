@@ -1,0 +1,15 @@
+{
+  "country": "Greece",
+    "date": "2020-04-03",
+    "total": 1613,
+    "new_confirmed": 99,
+    "samples": 22437,
+    "men": 878,
+    "women": 735,
+    "65_plus": 320,
+    "40-64": 686,
+    "18-39": 463,
+    "0-17": 43,
+    "in_IC": 92,
+    "current_deaths": 59,
+}
