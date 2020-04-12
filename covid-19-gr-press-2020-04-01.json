@@ -1,0 +1,32 @@
+{
+  "country": "Greece",
+    "source": "press release",
+    "source_URL": "https://eody.gov.gr/enimerosi-diapisteymenon-syntakton-ygeias-apo-ton-yfypoyrgo-politikis-prostasias-kai-diacheirisis-kriseon-niko-chardalia-kai-ton-ekprosopo-toy-ypoyrgeioy-ygeias-gia-to-neo-koronoio-kathigiti-sotir-4/",
+    "date": "2020-04-01",
+    "total": 1415,
+    "new_confirmed": 101,
+    "samples": 17350,
+    "in_IC": 90,
+    "current_deaths": 50,
+    "recovered_per_day": 6,
+    "deaths": {
+      "total": {
+        "men": {
+          "undefined": 38
+        },
+        "women": {
+          "undefined": 12
+        }
+      }
+    },
+    "IC": {
+      "total": {
+        "men": {
+          "undefined": 76
+        },
+        "women": {
+          "undefined": 14
+        }
+      }
+    }
+}
