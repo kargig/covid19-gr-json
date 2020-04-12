@@ -1,0 +1,32 @@
+{
+  "country": "Greece",
+    "source": "press release",
+    "source_URL": "https://eody.gov.gr/enimerosi-diapisteymenon-syntakton-ygeia-gia-to-neo-koronoio3/",
+    "date": "2020-03-28",
+    "total": 1061,
+    "new_confirmed": 95,
+    "samples": 14363,
+    "in_IC": 69,
+    "current_deaths": 32,
+    "recovered_per_day": 5,
+    "deaths": {
+      "total": {
+        "men": {
+          "undefined": 25
+        },
+        "women": {
+          "undefined": 7
+        }
+      }
+    },
+    "IC": {
+      "total": {
+        "men": {
+          "undefined": 57
+        },
+        "women": {
+          "undefined": 12
+        }
+      }
+    }
+}
