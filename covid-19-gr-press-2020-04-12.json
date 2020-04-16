@@ -1,0 +1,34 @@
+{
+  "country": "Greece",
+    "source": "press release",
+    "source_URL": "https://eody.gov.gr/04_12_briefing_covid19/",
+    "date": "2020-04-12",
+    "total": 2114,
+    "men": 1203,
+    "women": 911,
+    "new_confirmed": 33,
+    "samples": 42261,
+    "in_IC": 76,
+    "current_deaths": 98,
+    "recovered_per_day": 15,
+    "deaths": {
+      "total": {
+        "men": {
+          "undefined": 72
+        },
+        "women": {
+          "undefined": 26
+        }
+      }
+    },
+    "IC": {
+      "total": {
+        "men": {
+          "undefined": 61
+        },
+        "women": {
+          "undefined": 15
+        }
+      }
+    }
+}
