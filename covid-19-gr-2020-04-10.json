@@ -4,6 +4,7 @@
     "total": 2009,
     "new_confirmed": 54,
     "samples": 35432,
+    "samples_positive": 2308,
     "men": 1147,
     "women": 862,
     "65_plus": 408,

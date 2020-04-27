@@ -4,6 +4,7 @@
     "total": 2235,
     "new_confirmed": 11,
     "samples": 53290,
+    "samples_positive": 3057,
     "men": 1252,
     "women": 983,
     "65_plus": 466,

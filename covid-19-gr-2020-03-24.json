@@ -4,6 +4,7 @@
     "total": 743,
     "new_confirmed": 51,
     "samples": 9071,
+    "samples_positive": 625,
     "greeks": 677,
     "men": 406,
     "women": 325,
