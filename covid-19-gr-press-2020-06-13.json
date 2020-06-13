@@ -1,0 +1,32 @@
+{
+  "country": "Greece",
+    "source": "press release",
+    "source_URL": "https://eody.gov.gr/0613_briefing_covid19/",
+    "date": "2020-06-13",
+    "total": 3112,
+    "men": 1712,
+    "women": 1400,
+    "new_confirmed": 4,
+    "in_IC": 13,
+    "current_deaths": 183,
+    "deaths": {
+      "total": {
+        "men": {
+          "undefined": 127
+        },
+        "women": {
+          "undefined": 56
+        }
+      }
+    },
+    "IC": {
+      "total": {
+        "men": {
+          "undefined": 9
+        },
+        "women": {
+          "undefined": 4
+        }
+      }
+    }
+}

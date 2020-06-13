@@ -1,0 +1,32 @@
+{
+  "country": "Greece",
+    "source": "press release",
+    "source_URL": "https://eody.gov.gr/covid-gr-daily-report-20200608/",
+    "date": "2020-06-08",
+    "total": 3049,
+    "men": 1683,
+    "women": 1366,
+    "new_confirmed": 97,
+    "in_IC": 10,
+    "current_deaths": 182,
+    "deaths": {
+      "total": {
+        "men": {
+          "undefined": 127
+        },
+        "women": {
+          "undefined": 55
+        }
+      }
+    },
+    "IC": {
+      "total": {
+        "men": {
+          "undefined": 6
+        },
+        "women": {
+          "undefined": 4
+        }
+      }
+    }
+}
