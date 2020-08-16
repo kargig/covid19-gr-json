@@ -7,8 +7,8 @@
     "new_confirmed": 101,
     "samples": 17350,
     "in_IC": 90,
+    "IC_recovered": 6,
     "current_deaths": 50,
-    "recovered_per_day": 6,
     "deaths": {
       "total": {
         "men": {

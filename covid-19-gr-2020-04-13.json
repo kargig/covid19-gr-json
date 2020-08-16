@@ -12,6 +12,7 @@
     "18-39": 633,
     "0-17": 72,
     "in_IC": 73,
+    "IC_recovered": 16,
     "current_deaths": 99,
     "cases": {
       "total": {
