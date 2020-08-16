@@ -2,7 +2,7 @@
   "country": "Greece",
     "date": "2020-05-29",
     "total": 2909,
-    "new_confirmed": 3,
+    "new_confirmed": 5,
     "samples": 174844,
     "samples_positive": 4781,
     "men": 1606,
@@ -12,6 +12,7 @@
     "40-64": 1136,
     "65_plus": 575,
     "in_IC": 16,
+    "IC_recovered": 105,
     "current_deaths": 175,
     "cases": {
       "total": {
